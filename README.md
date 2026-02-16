@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Vu%20Dang&fontSize=40&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Dang%20The%20Vu&fontSize=40&fontColor=ffffff)
 
 <img alt="Coding" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width='40' align="left"/>
 <h2>Hey there! I'm Vũ 👋</h2>
