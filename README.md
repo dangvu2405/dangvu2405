@@ -5,18 +5,6 @@
 <h1 align="center">Hi 👋 I'm Vũ</h1>
 
 ---
-
-## 👨🏻‍💻 About Me
-
-- Deeply focused on **JavaScript Core & Runtime Internals**
-- Building scalable **Backend Systems**
-- Researching **AI Ranking Systems & Sports Analytics**
-- Designing AI-assisted referee models
-- Learning **Cloud Infrastructure on AWS**
-- Strong believer in mastering fundamentals
-
----
-
 ## 🛠 Tech Stack
 
 <p align="center">
@@ -31,18 +19,6 @@
 <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git" />
 
 </p>
-
----
-
-## 🔬 Current Focus
-
-- JavaScript Execution Context & Event Loop
-- Advanced Array Methods & Promise Internals
-- Elo-based AI Ranking Systems
-- Computer Vision for Sports Tracking
-- Scalable Cloud Architecture
-
----
 
 
 ## 🤝 Connect With Me
