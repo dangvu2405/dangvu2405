@@ -4,10 +4,6 @@
 
 <h1 align="center">Hi 👋 I'm Vũ</h1>
 
-<p align="center">
-  Backend Developer • AI Research • System Design
-</p>
-
 ---
 
 ## 👨🏻‍💻 About Me
