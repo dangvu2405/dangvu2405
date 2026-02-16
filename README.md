@@ -24,7 +24,5 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:your_email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail" />
-  </a>
+  <img src="MIXI " width="300"/>
 </p>
