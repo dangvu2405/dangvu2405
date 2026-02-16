@@ -52,7 +52,7 @@ Level 5: System Design & Scalable AI Systems
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/dangvu2405">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dangvu2405&show_icons=true&theme=algolia"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangvu2405&layout=compact&theme=algolia"/>
 </a>
