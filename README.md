@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="MixiGIF.gif" width="300"/>
+</p>
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFD700,50:FFA500,100:FF6B00&height=250&section=header&text=Dang%20The%20Vu&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Backend%20Engineer%20%7C%20AI%20Systems%20%7C%20Cloud%20Architecture&descSize=20&descAlignY=75" />
 </p>
@@ -21,8 +27,3 @@
 </p>
 
 
-## 🤝 Connect With Me
-
-<p align="center">
-  <img src="MixiGIF.gif" width="300"/>
-</p>
