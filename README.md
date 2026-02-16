@@ -24,5 +24,5 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <img src="MIXI " width="300"/>
+  <img src="MixiGIF.gif" width="300"/>
 </p>
