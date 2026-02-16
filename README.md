@@ -1,69 +1,58 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Dang%20The%20Vu&fontSize=40&fontColor=ffffff)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Dang%20The%20Vu&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Backend%20Engineer%20%7C%20AI%20Systems%20%7C%20Cloud%20Architecture&descSize=20&descAlignY=75" />
+</p>
 
-<img alt="Coding" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width='40' align="left"/>
-<h2>Hey there! I'm Vũ 👋</h2>
-
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I am deeply interested in understanding JavaScript from its core mechanisms (Execution Context, Closure, Event Loop).  
-🎯 &nbsp;Currently focusing on Backend Development, System Design, and AI applications in Sports Analytics.  
-🏓 &nbsp;Researching AI-based ranking systems and AI referee solutions for Pickleball.  
-🚀 &nbsp;Building practical systems combining React, Node.js, and AI services.  
-☁️ &nbsp;Learning Cloud deployment and infrastructure on AWS.  
-📚 &nbsp;Passionate about mastering fundamentals rather than just using frameworks.  
-
----
-
-### 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
----
-
-### 🔬 &nbsp;Current Research Focus
-
-- JavaScript Core Internals  
-- Array Methods & Promise Deep Dive  
-- AI Ranking Systems (Elo-based models)  
-- Computer Vision for Sports Analysis  
-- AI-assisted Referee Systems  
-- Cloud-based Scalable Architecture  
-
----
-
-### 📈 &nbsp;Learning Roadmap
-
-Level 1: JavaScript Core  
-Level 2: React & Backend Integration  
-Level 3: AI & Computer Vision  
-Level 4: Cloud Infrastructure & Deployment  
-Level 5: System Design & Scalable AI Systems  
-
----
-
-### ⚙️ &nbsp;GitHub Analytics
+<h1 align="center">Hi 👋 I'm Vũ</h1>
 
 <p align="center">
-<a href="https://github.com/dangvu2405">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dangvu2405&show_icons=true&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangvu2405&layout=compact&theme=algolia"/>
-</a>
+  Backend Developer • AI Research • System Design
 </p>
 
 ---
 
-### 🤝🏻 &nbsp;Connect with Me
+## 👨🏻‍💻 About Me
+
+- Deeply focused on **JavaScript Core & Runtime Internals**
+- Building scalable **Backend Systems**
+- Researching **AI Ranking Systems & Sports Analytics**
+- Designing AI-assisted referee models
+- Learning **Cloud Infrastructure on AWS**
+- Strong believer in mastering fundamentals
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow" />
+<img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazon-aws" />
+<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git" />
+
+</p>
+
+---
+
+## 🔬 Current Focus
+
+- JavaScript Execution Context & Event Loop
+- Advanced Array Methods & Promise Internals
+- Elo-based AI Ranking Systems
+- Computer Vision for Sports Tracking
+- Scalable Cloud Architecture
+
+---
+
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
